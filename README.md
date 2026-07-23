@@ -126,13 +126,3 @@ Contributions are welcome!
 5. Open a Pull Request
 
 ---
-
-## 📄 License
-
-This project is intended for educational and learning purposes.
-
----
-
-## ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub!
