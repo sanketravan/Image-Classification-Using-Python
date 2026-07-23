@@ -1,6 +1,6 @@
 # 🖼️ Image Classification Using Python
 
-A modern Image Classification web application built with **Python, PyTorch, and Streamlit** that classifies uploaded images using a pre-trained **ResNet-101** deep learning model trained on the ImageNet dataset. The application provides fast and accurate predictions through a clean and interactive web interface.
+A modern Image Classification web application built with **Python, PyTorch and Streamlit** that classifies uploaded images using a pre-trained **ResNet-101** deep learning model trained on the ImageNet dataset. The application provides fast and accurate predictions through a clean and interactive web interface.
 
 ---
 
